@@ -10,8 +10,6 @@
  * \\ = backslash 
  * 
  */
-
-
 public class java02_escape {
     public static void main(String[] args) {
         System.out.print("Hello World");
