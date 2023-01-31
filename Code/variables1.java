@@ -37,4 +37,11 @@ public class variables1 {
      * -- Non-premitive --
      * Non-primitve data types are {string, Array etc.}
      */
+
+
+
+     /*
+      * variable declaration syntax:-
+      * data_type variable_name;
+      */
 }
