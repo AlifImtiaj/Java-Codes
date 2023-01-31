@@ -44,4 +44,9 @@ public class variables1 {
       * variable declaration syntax:-
       * data_type variable_name;
       */
+
+      public static void main(String[] args) {
+        byte num1 = 12;
+        System.out.print(num1);
+      }
 }
