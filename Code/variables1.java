@@ -46,7 +46,6 @@ public class variables1 {
       */
 
       public static void main(String[] args) {
-        byte num1 = 12;
-        System.out.print(num1);
+        
       }
 }
